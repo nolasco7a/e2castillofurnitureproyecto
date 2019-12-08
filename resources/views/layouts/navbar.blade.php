@@ -8,8 +8,8 @@
                 <div class="col-lg-12">
                     <div class="main_menu_iner">
                         <div class="logo">
-                        <a href="{{route('index')}}" ><img src="img/e2castillo/logos/white-logo-e2castillo.svg" id="complete-logo" alt="#"></a>
-                        <a href="{{route('index')}}" ><img src="img/e2castillo/logos/white-logo-letters-e2castillo.svg" id="partial-logo" class="d-none" alt="#"></a>
+                        <a href="{{route('index')}}" ><img src="img/e2castillo/logos/white-logo-e2castillo.png" id="complete-logo" alt="#"></a>
+                        <a href="{{route('index')}}" ><img src="img/e2castillo/logos/white-logo-letters-e2castillo.png" id="partial-logo" class="d-none" alt="#"></a>
                             
                         </div>
            
