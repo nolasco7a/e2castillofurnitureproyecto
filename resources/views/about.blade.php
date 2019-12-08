@@ -73,10 +73,10 @@
 <div class="our_speciality">
         <div class="container">
             <div class="row">
-                <div class="col-lg-12 col-md-12 col-sm-12">
+                <div class="col-lg-12 col-md-12 col-sm-12" style="z-index: 99">
                     {{-- Fortalezas --}}
                     @foreach ($fortalezas as $fortaleza)
-                    <div class="single_special_part col-md-4 border_left">
+                    <div class="single_special_part col-lg-4 col-md-6 border_left">
                     <img src="{{$fortaleza->icono}}" alt="">
                         <div class="single_special_text">
                             <h3>{{$fortaleza->nombre}}</h3>

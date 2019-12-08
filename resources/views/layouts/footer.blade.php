@@ -8,26 +8,26 @@
                         </div>
             </div>
             <div class="row justify-content-between">
-                <div class="col-lg-3 col-sm-6">
+                    <div class="col-lg-2 col-sm-6">
+                            <div class="single-footer-widget footer_2">
+                                <h4>Menu</h4>
+                                <ul>
+                                <li><a href="{{route('index')}}">Inicio</a></li>
+                                <li><a href="{{route('about')}}"> Acerca de Nosotros</a></li>
+                                <li><a href="{{route('project')}}">Proyectos</a></li>
+                                <li><a href="{{route('melamines')}}">Materiales</a></li>
+                                <li><a href="{{route('contact')}}">Contactanos</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                <div class="col-lg-4 col-sm-6">
                     <div class="single-footer-widget footer_1">
                         <h4>Acerca de Nosotros</h4>
                         <p>Somos una empresa dedicada al diseño y elaboración, especializada en muebles de vanguardia para cubrir todas sus necesidades.</p>
                         <a href="#" style="color:white; font-weight: 600; font-size:18px">Quieres formar parte de nuestro equipo?</a>
                     </div>
                 </div>
-                <div class="col-lg-2 col-sm-6">
-                    <div class="single-footer-widget footer_2">
-                        <h4>Menu</h4>
-                        <ul>
-                        <li><a href="{{route('index')}}">Inicio</a></li>
-                        <li><a href="{{route('about')}}"> Acerca de Nosotros</a></li>
-                        <li><a href="{{route('project')}}">Proyectos</a></li>
-                        <li><a href="{{route('melamines')}}">Materiales</a></li>
-                        <li><a href="{{route('contact')}}">Contactanos</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-sm-6">
+                <div class="col-lg-5 col-sm-6">
                     <div class="single-footer-widget footer_2">
                         <h4>Contactenos</h4>
                         <div class="contact_info">
@@ -39,7 +39,7 @@
                     </div>
                 </div>
 
-                <div class="col-lg-3 col-sm-6">
+                {{-- <div class="col-lg-3 col-sm-6">
                     <div class="single-footer-widget footer_3">
                         <h4>Boletin informativo</h4>
                         <p>Forma parte de nuestro boletin para revibir ofertas</p>
@@ -55,7 +55,7 @@
                             </form>
                         </div>
                     </div>
-                </div>
+                </div> --}}
             </div>
         </div>
         <div class="copyright_part">

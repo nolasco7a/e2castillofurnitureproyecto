@@ -2,16 +2,15 @@
 .our_speciality {
     margin-top: -98px;
     z-index: 99;
-    position: absolute;
     left: 0;
     right: 0;
     .single_special_part {
         background-color: $white_color;
-        width: 33.33%;
+        width: 25%;
         height: 100%;
         float: left;
         position: relative;
-        padding: 45px 50px;
+        padding: 2rem;
         border-left: 1px solid $border;
         
         &:first-child{
@@ -25,20 +24,20 @@
         }
         @media #{$large_mobile}{
             width:100%;
-            padding: 20px 15px 20px 35px;
+            padding: 2rem;
             border-left: 0px solid transparent;
             height: auto;
 
         }
         @media #{$tab_device}{
-            width:33.33%;
-            padding: 20px 15px;
+            width:50%;
+            padding: 2rem;
             border-left: 0px solid transparent;
-            height: 100%;
+            height: 200px;
 
         }
         @media #{$medium_device}{
-            padding: 25px 30px;
+            padding: 2rem;
         }
         img {
             fill: #BD2225 !important;
@@ -81,7 +80,7 @@
                 padding-left: 50px;
             }
             p{
-                font-size: 14px;
+                font-size: 12px;
             }
             h3 {
                 font-weight: 600;

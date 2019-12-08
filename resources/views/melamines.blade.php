@@ -28,7 +28,9 @@
                     <div class="home_tips_text">
                         <h1>Materiales de Elaboracion</h1>
                         <p>Con E2Castillo furniture puede tener la plena confianza que los materiales que utilizamos de un nivel premium, para garantizar la durabilidad y la buena calidad de los productos terminados.</p>
-                        <p>A continuación se muestra una variedad de colores de melaminas para que pueda tener una referencia del color que quiere sus muebles.</p>
+                        <h2>Melaminas</h2>
+                        <p>Tableros recubiertos con papeles decorativos tratados con resinas melamínicas.</p>
+                        <p>Configuran una barrera altamente resistente respecto de la humedad, el vapor, y diferentes productos químicos. A su vez, la materialidad de este producto se muestra fuerte y resistente respecto a distintos tipos de rayados.</p>
                     </div>
                 </div>
                 <p>
@@ -54,7 +56,7 @@
                     @endforeach
             </div>
         </div>
-        <div class="container">
+        {{-- <div class="container">
                 <div class="row justify-content-start">
                     <div class="col-lg-6">
                         <div class="home_tips_text">
@@ -71,7 +73,7 @@
                             <p>Pintados al gusto con pintura a presion con acabados mates o brillantes</p>
                         </div>
                     </div>
-        </div>
+        </div> --}}
         {{-- Colores solidos --}}
         {{-- colores que pueden ajustarse a la imagen de tu empresa... --}}
         {{-- MDF --}}

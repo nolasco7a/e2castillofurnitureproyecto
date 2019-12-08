@@ -313,23 +313,23 @@ ul{
 }
 
 .form-contact-about{
-    margin-top: 16rem !important;
+    margin-top: 5rem !important;
     @media #{$xs_mobile}{
-       margin-top: 40rem !important;
+       margin-top: 5rem !important;
     }
     @media #{$small_mobile}{
-       margin-top: 32rem !important;
+       margin-top: 5rem !important;
     }
     @media #{$large_mobile}{
-      margin-top: 22rem !important;
+      margin-top: 5rem !important;
 
     }
     @media #{$tab_device}{
-       margin-top: 14rem !important;
+       margin-top: 5rem !important;
 
     }
     @media #{$medium_device}{
-        margin-top: 12rem !important;
+        margin-top: 2rem !important;
     }
 }
 .page-item.active .page-link {

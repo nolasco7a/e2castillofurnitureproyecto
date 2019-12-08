@@ -40,15 +40,14 @@
                 </div>
             </section>
             <!-- banner part start-->
-        
-            <!-- banner part start-->
+                    <!-- banner part start-->
             <div class="our_speciality">
                 <div class="container-fluid">
                     <div class="row">
                         <div class="col-lg-12 col-md-12 col-sm-12">
                             {{-- Fortalezas --}}
                             @foreach ($fortalezas as $fortaleza)
-                            <div class="single_special_part col-md-4 border_left">
+                            <div class="single_special_part col-lg-3 col-md-12 border_left" style="z-index: 99">
                             <img src="{{$fortaleza->icono}}" alt="">
                                 <div class="single_special_text">
                                     <h3>{{$fortaleza->nombre}}</h3>
@@ -61,6 +60,8 @@
                 </div>
             </div>
             <!-- banner part start-->
+        
+         
         
             <!-- about part start-->
             <div class="about_part section_bg">
@@ -133,7 +134,7 @@
                         <div class="col-lg-7">
                             <div class="section_tittle">
                                 <h2>Resultado</h2>
-                                <p>Cada proyecto que emprendemos es único, y depende de la tipología, del cliente que nos lo encarga y del mercado y las necesidades que tiene en cada momento. Lo que no cambia es nuestra actitud frente a los retos y el compromiso de calidad y servicio al cliente.</p>
+                                <p>Cada proyecto que emprendemos es único y depende de la tipología del cliente que nos lo encarga y del mercado y las necesidades que tiene en cada momento. Lo que no cambia es nuestra actitud frente a los retos y el compromiso de calidad y servicio al cliente.</p>
                             <a href="{{route('project')}}" class="btn_1">QUIERO VER TODOS LOS PROYECTOS <span><img src="img/icon/left.svg" alt=""></span> </a>
                             </div>
                         </div>
