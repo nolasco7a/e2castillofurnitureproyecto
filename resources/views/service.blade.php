@@ -28,8 +28,8 @@
                     <div class="col-lg-10">
                         <div class="section_tittle">
                             <h2>Nuestros Servicios</h2>
-                            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia cum et eaque ab. Asperiores molestiae, nisi aut molestias perferendis alias exercitationem itaque quidem maxime vero ad veritatis ullam. Tempora aut recusandae nemo ipsa? Ab ullam, odit quibusdam corrupti labore ducimus facere laboriosam nemo voluptatum velit ut earum eaque laborum inventore.</p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Mollitia cum et eaque ab. Asperiores molestiae, nisi aut molestias perferendis alias exercitationem itaque quidem maxime vero ad veritatis ullam. Tempora aut recusandae nemo ipsa? Ab ullam, odit quibusdam corrupti labore ducimus facere laboriosam nemo voluptatum velit ut earum eaque laborum inventore.</p>
+                            <p>Construcción y transformación de los espacios, convertirlos a algo propio de tus gustos administrando de manera óptima tus recursos de espacio, tiempo y fondos económicos para la realización de tu proyecto, personalizado a tu gusto y necesidades.</p>
+                            <p>Te apoyamos desde la remodelacion de tu dormitorio hasta la construcción de un edificio</p>
                         </div>
                     </div>
                 </div>

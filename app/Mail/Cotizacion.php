@@ -30,9 +30,9 @@ class Cotizacion extends Mailable
     public function build()
     {
         return $this
-        ->from('nolasco7a@gmail.com')
+        ->from('websitefurniture@e2castillo.com')
         ->subject('Cotizacion pagina web')
-        ->to('nolasco7a@gmail.com')
+        ->to('eduardocastillo1@gmail.com')
         ->view('mail.cotization');
     }
 }
