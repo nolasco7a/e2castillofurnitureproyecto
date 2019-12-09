@@ -26,7 +26,7 @@
                                     <h1>{{$anuncio->titulo}}</h1>
                                     <p>{{$anuncio->descripcion}}</p>
                                     <div class="banner_btn">
-                                    <a href="{{$anuncio->enlace}}" class="btn_1">QUIERO VER MÁS <span><img src="img/icon/left.svg" alt=""></span>
+                                    <a href="{{/* $anuncio->enlace */ route('contact')}}" class="btn_1">QUIERO VER MÁS <span><img src="img/icon/left.svg" alt=""></span>
                                         </a>
                                     </div>
                                     </div>
